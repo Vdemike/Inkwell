@@ -2,7 +2,6 @@
 	"name": "Inkwell",
 	"version": "2.0.0",
 	"private": false,
-	"homepage": "https://vdemike.github.io/Inkwell",
 	"dependencies": {
 		"@badrap/bar-of-progress": "^0.2.2",
 		"@emotion/react": "^11.10.4",
